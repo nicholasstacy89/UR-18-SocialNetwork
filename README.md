@@ -37,6 +37,7 @@ thoughts/:id/reactions/:id (Post, Delete)
 
 ## Contributing
 github username: nicholasstacy89
-repo : 
+repo :  https://github.com/nicholasstacy89/UR-18-SocialNetwork
+demo : https://drive.google.com/file/d/1uWC5T1ds5TEo2G80JbPtQ8aSk666gyM6/view
 
 
